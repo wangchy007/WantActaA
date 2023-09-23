@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WantActaA
+- 👋 Hi, I’m @Wangchy
 - 👀 I’m interested in python
 - 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on matlab
